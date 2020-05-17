@@ -3,6 +3,9 @@ module.exports = {
     title: `Jojoffrey Blog`,
     description: `Kick off your next, great Gatsby project with this default starter. This barebones starter ships with the main Gatsby configuration files you might need.`,
     author: `Jojoffrey`,
+    bio: `Developpeur web, specialisé en react, javascript, gatsby. Travaille
+               aussi dans le developpement de jeux avec phaser 3.`,
+    authorImage: `https://imgur.com/VnHQ6go.png`,
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
