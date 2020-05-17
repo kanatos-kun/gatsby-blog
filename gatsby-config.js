@@ -8,7 +8,7 @@ module.exports = {
     `gatsby-plugin-react-helmet`,
     {
       resolve: "gatsby-plugin-less",
-      option: {
+      options: {
         modifyVars: require("./src/theme/antd.js"),
         // Needed to load antdesign less files.
         javascriptEnabled: true,

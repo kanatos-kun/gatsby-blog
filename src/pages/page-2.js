@@ -6,7 +6,7 @@ import SEO from "../components/seo"
 import Header from "../components/header"
 
 const SecondPage = () => (
-  <Layout>
+  <Layout page="3">
     <SEO title="Page two" />
     <h1>Hi from the second page</h1>
     <p>Welcome to page 2</p>
